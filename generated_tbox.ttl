@@ -1,0 +1,86 @@
+@prefix : <http://budgetbites.org/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hasCategory a owl:ObjectProperty ;
+    rdfs:domain :Product ;
+    rdfs:range :Category .
+
+:imageURL a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:anyURI .
+
+:ingredientNameEN a owl:DatatypeProperty ;
+    rdfs:domain :Ingredient ;
+    rdfs:range xsd:string .
+
+:ingredientNameES a owl:DatatypeProperty ;
+    rdfs:domain :Ingredient ;
+    rdfs:range xsd:string .
+
+:insertDate a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:string .
+
+:isSeasonalIn a owl:ObjectProperty ;
+    rdfs:domain :Ingredient ;
+    rdfs:range :Month .
+
+:matchesWithProduct a owl:ObjectProperty ;
+    rdfs:domain :Ingredient ;
+    rdfs:range :Product .
+
+:name a owl:DatatypeProperty ;
+    rdfs:domain [ owl:unionOf ( :Product :Supermarket :Category :Month :Recipe ) ] ;
+    rdfs:range xsd:string .
+
+:parentCategory a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:string .
+
+:price a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:decimal .
+
+:productURL a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:anyURI .
+
+:referencePrice a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:decimal .
+
+:referenceUnit a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:string .
+
+:soldBy a owl:ObjectProperty ;
+    rdfs:domain :Product ;
+    rdfs:range :Supermarket .
+
+:subCategory a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:string .
+
+:unit a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:string .
+
+:usesIngredient a owl:ObjectProperty ;
+    rdfs:domain :Recipe ;
+    rdfs:range :Ingredient .
+
+:Category a owl:Class .
+
+:Month a owl:Class .
+
+:Recipe a owl:Class .
+
+:Supermarket a owl:Class .
+
+:Ingredient a owl:Class .
+
+:Product a owl:Class .
+

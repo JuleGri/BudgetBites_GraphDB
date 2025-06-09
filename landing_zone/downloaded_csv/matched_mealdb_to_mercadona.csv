@@ -1,0 +1,122 @@
+mealdb_english,mealdb_spanish,matched_mercadona,match_score,price,reference_price,category,unit,id
+Chicken,Pollo,Pomelo,72.72727272727273,0.81,2.19,fruta,,248812
+Beef,Carne de vacuno,Burger de vacuno,77.41935483870968,3.61,6.69,hamburguesas_y_picadas,,249327
+Avocado,Aguacate,Aguacate,100.0,1.28,3.99,fruta,,248817
+Aubergine,Berenjena,Berenjena,100.0,0.66,1.79,verdura,,248941
+Beef Fillet,Filete de carne de vacuno,Filetes de vacuno al ajillo,73.07692307692308,4.93,10.95,vacuno,,249282
+Beef Gravy,Grasa de carne de vacuno,Preparado de carne picada vacuno,75.0,3.2,6.4,hamburguesas_y_picadas,,249348
+Black Pepper,Pimienta negra,Pimiento verde,71.42857142857143,0.55,2.29,verdura,,248914
+Black Treacle,Treacle negro,Té negro Tetley,71.42857142857143,1.65,13.2,te_e_infusiones,,250601
+Broccoli,Brócoli,Brócoli,100.0,1.16,2.89,verdura,,248940
+Canned Tomatoes,Tomates enlatados,Tomate ensalada,75.0,0.39,1.79,verdura,,248889
+Carrots,Zanahorias,Zanahorias,100.0,0.69,0.69,verdura,,248903
+Challots,Chalotes,Chalotas,87.5,1.25,5.0,verdura,,248887
+Cherry Tomatoes,Tomates de cereza,Tomates pera,75.86206896551724,1.55,1.55,verdura,,248895
+Chicken Breast,Pechuga de pollo,Pechugas de pollo enteras,78.04878048780488,6.47,5.39,aves_y_pollo,,249235
+Chicken Breasts,Pechugas de pollo,Pechugas de pollo enteras,80.95238095238095,6.47,5.39,aves_y_pollo,,249235
+Chicken Legs,Piernas de pollo,Patas de pollo,80.0,2.34,3.35,aves_y_pollo,,249269
+Chicken Stock,Población de pollo,Alas de pollo,70.96774193548387,3.67,3.75,aves_y_pollo,,249257
+Chicken Thighs,Muslos de pollo,Alas de pollo,78.57142857142857,3.67,3.75,aves_y_pollo,,249257
+Chinese Broccoli,Brócoli chino,Brócoli Hacendado,73.33333333333334,1.49,1.49,verdura,,251972
+Chocolate Chips,Patatas fritas de chocolate,Magdalenas con pepitas de chocolate,70.96774193548387,1.75,4.61,bolleria_de_horno,,249935
+Chopped Parsley,Perejil picado,Perejil troceado,80.0,0.7,1.75,verdura,,248933
+Chopped Tomatoes,Tomates cortados,Tomates pera,71.42857142857143,1.55,1.55,verdura,,248895
+Cilantro,Cilantro,Cilantro,100.0,1.15,5.75,verdura,,248935
+Coconut Milk,Leche de coco,Leche de coco Dee Thai,74.28571428571429,1.5,3.75,leche_y_bebidas_vegetales,,250234
+Coriander,Cilantro,Cilantro,100.0,1.15,5.75,verdura,,248935
+Cucumber,Pepino,Pepino,100.0,0.36,1.49,verdura,,248904
+Dark Soy Sauce,Salsa de soja oscura,Salsa de soja,78.78787878787878,0.9,3.46,sushi,,260777
+Diced Tomatoes,Tomates en cubitos,Tomates mini kumato,70.27027027027026,1.39,4.63,verdura,,248892
+Egg Plants,Plantas de huevos,Flan de huevo Reina,72.22222222222221,1.25,2.84,flan_y_natillas,,251052
+Extra Virgin Olive Oil,Aceite de Oliva Virgen Extra,Aceite de oliva virgen extra Eminente,70.76923076923076,13.6,2.72,aceite_vinagre_y_sal,,823124
+Feta,Feta,Seta,75.0,1.78,7.1,verdura,,248926
+Fish Sauce,Salsa de pescado,Salsa de soja,75.86206896551724,0.9,3.46,sushi,,260777
+Flax Eggs,Huevos de lino,Huevos medianos M,70.96774193548387,2.42,1.21,huevos,,250322
+Floury Potatoes,Patatas de flor,Patas de pollo,75.86206896551724,2.34,3.35,aves_y_pollo,,249269
+Garlic Powder,Polvo de ajo,Panecillo de ajo,71.42857142857143,0.22,0.85,pan_de_horno,,249794
+Ginger Paste,Pasta de jengibre,Galletas de jengibre,81.08108108108108,1.8,5.0,galletas,,250406
+Grape Tomatoes,Tomates de uva,Tomates pera,76.92307692307692,1.55,1.55,verdura,,248895
+Green Beans,Judías verdes,Judía verde plana,73.33333333333334,2.49,3.32,verdura,,248943
+Green Chilli,Chilli verde,Kiwi verde,72.72727272727273,0.42,3.85,fruta,,248815
+Lamb Loin Chops,Chuletas de lomo de cordero,Chuletas lomo de cerdo,85.71428571428572,4.41,4.9,cerdo,,249211
+Leek,Puerros,Puerros,100.0,2.06,2.29,verdura,,248945
+Lemon,Limón,Limón,100.0,0.52,2.49,fruta,,248809
+Lemon Zest,Lemon Zest,Limones,70.58823529411764,2.29,2.29,fruta,,248808
+Lemons,Limones,Limones,100.0,2.29,2.29,fruta,,248808
+Lime,Lima,Limas,88.88888888888889,1.6,3.99,fruta,,248813
+Mackerel,Caballa,Cañaílla,80.0,2.6,5.2,marisco,,249060
+Minced Garlic,Ajos picados,Ajos morados,75.0,1.3,5.2,verdura,,248881
+Mushrooms,Setas,Seta,88.88888888888889,1.78,7.1,verdura,,248926
+Onions,Cebollas,Cebollas,100.0,1.3,1.3,verdura,,248880
+Orange,Naranja,Naranja,100.0,0.41,1.59,fruta,,248810
+Orange Zest,Zest Naranja,Naranjas,80.0,3.79,1.26,fruta,,248811
+Oyster Sauce,Salsa de ostra,Salsa de trufas,82.75862068965517,2.95,36.88,otras_salsas,,251263
+Pecorino,Pecorino,Pepino,71.42857142857143,0.36,1.49,verdura,,248904
+Plain Flour,Harina lisa,Sardina limpia,72.0,1.74,6.95,pescado_fresco,,248981
+Potatoes,Patatas,Patatas,100.0,4.21,1.4,verdura,,248873
+Prawns,Langostinos,Langostino cocido,71.42857142857143,985.05,9.95,marisco,,249020
+Raw King Prawns,Langostinos reales crudos,Langostino crudo ultracongelado,71.42857142857143,940.5,9.5,marisco,,249028
+Red Onions,Cebollas rojas,Cebollas rojas,100.0,1.15,2.3,verdura,,248884
+Red Pepper,Pimienta roja,Pimiento rojo,84.61538461538461,0.61,2.1,verdura,,248910
+Semi-skimmed Milk,Leche semidesnatada,Leche semidesnatada Pascual,82.6086956521739,5.34,0.89,leche_y_bebidas_vegetales,,250153
+Shallots,Chalotes,Chalotas,87.5,1.25,5.0,verdura,,248887
+Soy Sauce,Salsa de soja,Salsa de soja,100.0,0.9,3.46,sushi,,260777
+Spinach,Espinacas,Espinacas Ybarra,72.0,1.0,2.35,conservas_de_verdura_y_frutas,,251508
+Spring Onions,Cebollas de primavera,Cebollas tiernas,70.27027027027026,1.25,0.42,verdura,,248878
+Strawberries,Fresas,Fresas,100.0,2.29,5.73,fruta,,248829
+Tomato Puree,Puré de tomate,Puré de patatas,75.86206896551724,1.22,2.44,gazpacho_y_cremas,,251599
+Tomatoes,Tomates,Tomates,100.0,2.6,1.3,verdura,,248897
+Turnips,Nabos,Nabo,88.88888888888889,0.78,3.4,verdura,,248961
+Vegetable Stock,Población vegetal,Carbón vegetal,70.96774193548387,2.19,0.73,menaje_y_conservacion_de_alimentos,,255130
+White Chocolate Chips,Chips de chocolate blanco,Coca de chocolate,71.42857142857143,3.0,3.75,bolleria_de_horno,,249932
+White Fish Fillets,Filetes de pescado blanco,Filetes de ternera blanca,76.0,7.11,15.8,vacuno,,249292
+Whole Milk,Leche entera,Leche entera Pascual,75.0,5.34,0.89,leche_y_bebidas_vegetales,,250197
+Wholegrain Bread,Pan integral,Pan integral 100%,82.75862068965517,1.6,4.57,pan_de_horno,,249780
+Caramel,Caramelo,Caramelo Pez,80.0,1.35,5.29,golosinas,,250842
+Corn Flour,Harina de maíz,Harina de fuerza,73.33333333333334,0.73,0.73,harina_y_preparado_reposteria,,250065
+Mussels,Mejillones,Mejillón,77.77777777777779,1.95,1.95,marisco,,249048
+Onion,Cebolla,Cebollas,93.33333333333333,1.3,1.3,verdura,,248880
+Tomato,Tomate,Tomates,92.3076923076923,2.6,1.3,verdura,,248897
+Passata,Passata,Patata,76.92307692307692,0.4,1.55,verdura,,248872
+Lamb Leg,Pierna de cordero,Cuello de cordero,70.58823529411764,4.14,6.9,conejo_y_cordero,,249308
+Lamb Shoulder,Hombro de cordero,Cuello de cordero,70.58823529411764,4.14,6.9,conejo_y_cordero,,249308
+Sweetcorn,Maíz dulce,Maíz dulce,100.0,1.99,1.0,verdura,,248963
+Butter Beans,Judías de mantequilla,Croissant de mantequilla,71.11111111111111,0.29,5.8,bolleria_de_horno,,249920
+Tomato Sauce,Salsa de tomate,Salsa de soja,78.57142857142857,0.9,3.46,sushi,,260777
+Banana,Plátano,Plátano,100.0,0.34,1.99,fruta,,248790
+Raspberries,Frambuesas,Frambuesas,100.0,2.29,13.47,fruta,,248831
+Blueberries,Arándanos,Arándanos,100.0,2.59,11.51,fruta,,248834
+Dark Chocolate Chips,Chips de chocolate oscuro,Crepes rellenos de chocolate,71.69811320754718,1.09,5.68,bolleria_envasada,,249975
+Milk Chocolate,Chocolate con leche,Chocolate con leche Lindt,86.36363636363636,1.25,10.0,chocolate,,250715
+Peanut Cookies,Galletas de maní,Galletas mini Oreo,76.47058823529412,1.45,9.06,galletas,,250424
+Yellow Pepper,Pimienta amarilla,Ciruela amarilla,72.72727272727273,0.46,2.89,fruta,,248832
+Green Pepper,Pimienta verde,Pimiento verde,92.85714285714286,0.55,2.29,verdura,,248914
+Tinned Tomatos,Tomates estañados,Tomate ensalada,75.0,0.39,1.79,verdura,,248889
+Cabbage,Repollo,Repollo liso,73.6842105263158,1.39,1.0,verdura,,248918
+Beef Kidney,Riñón de carne,Botifarrón de carne,72.72727272727273,1.95,5.58,embutido,,276454
+Redcurrants,Grosellas rojas,Cebollas rojas,75.86206896551724,1.15,2.3,verdura,,248884
+Blackberries,Moras,Moras,100.0,1.99,15.92,fruta,,248833
+Apples,Manzanas,Mandarinas,77.77777777777779,2.51,1.79,fruta,,2369138
+Tarragon Leaves,Hojas de estragón,Rodajas de salmón,70.58823529411764,6.6,16.5,pescado_en_bandeja,,249076
+Chives,Cebolletas,Cebollas,88.88888888888889,1.3,1.3,verdura,,248880
+White Chocolate,Chocolate blanco,Chocolate blanco Hacendado,76.19047619047619,0.7,7.0,chocolate,,250736
+Custard Powder,Polvo de crema,Pastel de crema,75.86206896551724,0.34,6.8,bolleria_de_horno,,249925
+Frozen Peas,Guisantes congelados,Gambón congelado,72.22222222222221,17.9,8.95,marisco,,249019
+Sun-Dried Tomatoes,Tomates secos al sol,Tomate seco,70.96774193548387,1.79,22.38,verdura,,248900
+Dijon Mustard,Mostaza de Dijon,Mostaza de Dijon Hacendado,76.19047619047619,0.99,4.95,mayonesa_ketchup_y_mostaza,,251207
+Salt Cod,Bacalao de sal,Bacalao al punto de sal,75.67567567567568,5.98,11.95,pescado_en_bandeja,,249077
+Ground Beef,Carne de vacuno,Burger de vacuno,77.41935483870968,3.61,6.69,hamburguesas_y_picadas,,249327
+Baby Aubergine,Berenjena bebé,Berenjena,78.26086956521739,0.66,1.79,verdura,,248941
+Scallions,Cebolletas,Cebollas,88.88888888888889,1.3,1.3,verdura,,248880
+Duck Sauce,Salsa de pato,Salsa de soja,76.92307692307692,0.9,3.46,sushi,,260777
+Smoked Salmon,Salmón ahumado,Salmón ahumado Ubago,82.35294117647058,2.7,27.0,salazones_y_ahumados,,249169
+Anchovy Fillet,Filete de anchoa,Filete de atún,80.0,7.28,28.0,pescado_en_bandeja,,249097
+Filo Pastry,Pastelería Filo,Bolsa pastelería,70.96774193548387,0.4,0.4,tartas_y_pasteles,,250062
+Potatoe Buns,Patatas,Patatas,100.0,4.21,1.4,verdura,,248873
+Pork Chops,Chops de cerdo,Sesos de cerdo,78.57142857142857,1.8,13.85,cerdo,,249207
+Yellow Onion,Cebolla amarilla,Ciruela amarilla,81.25,0.46,2.89,fruta,,248832
+Persian Cucumber,Pepino persa,Pepinos,73.6842105263158,1.59,1.27,verdura,,248907
+Mayonnaise,Mayonesa,Mayonesa Musa,76.19047619047619,1.55,2.87,mayonesa_ketchup_y_mostaza,,251196
+Iceberg Lettuce,Lechuga de iceberg,Lechuga iceberg,90.9090909090909,0.85,0.85,lechuga_y_ensalada_preparada,,248840
+Cheese Slices,Rebanadas de queso,Salsa de queso Hacendado,71.42857142857143,1.25,4.17,otras_salsas,,251254
+Figs,Higos,Higo,88.88888888888889,0.26,5.29,fruta,,265909

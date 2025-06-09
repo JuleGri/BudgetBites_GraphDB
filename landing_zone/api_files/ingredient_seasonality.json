@@ -1,0 +1,73 @@
+{
+    "Asparagus": [
+        "March",
+        "April"
+    ],
+    "Broccoli": [
+        "May"
+    ],
+    "Carrots": [
+        "January",
+        "February",
+        "April",
+        "September",
+        "December"
+    ],
+    "Kale": [
+        "January",
+        "February",
+        "November",
+        "December"
+    ],
+    "Lettuce": [
+        "June"
+    ],
+    "Peas": [
+        "June"
+    ],
+    "Spinach": [
+        "March",
+        "April",
+        "May"
+    ],
+    "Squash": [
+        "October",
+        "November"
+    ],
+    "Strawberries": [
+        "April",
+        "May",
+        "June"
+    ],
+    "Tomatoes": [
+        "July",
+        "August",
+        "September"
+    ],
+    "Zucchini": [
+        "July"
+    ],
+    "Cabbage": [
+        "October"
+    ],
+    "Brussels Sprouts": [
+        "January",
+        "November",
+        "December"
+    ],
+    "Apples": [
+        "September",
+        "October",
+        "November"
+    ],
+    "Pears": [
+        "September",
+        "November"
+    ],
+    "Sweet Potatoes": [
+        "October"
+    ],
+    "Rhubarb": [
+        "May"
+    ]
+}
