@@ -1,3 +1,7 @@
+# This script only creates an abox for translated and original mercadona and carrefour data
+# To add further supermarkets to the graph, add the link to the cleaned data file in line #27 
+# 
+
 from rdflib import Graph, Namespace, Literal, RDF, URIRef
 from rdflib.namespace import XSD
 import csv
@@ -5,18 +9,15 @@ import json
 import os
 import pandas as pd
 
-
-# Setup graph and namespace
 BB = Namespace("http://budgetbites.org/ontology#")
 g = Graph()
 g.bind("bb", BB)
 
-#Set up datatype issue prevention
 def safe_float(val, fallback=0.0):
     try:
         return float(val)
     except (ValueError, TypeError):
-        return fallback  # or use `None` if you want to skip the triple
+        return fallback  # or use 
 
 # === 1. Supermarkets ===
 g.add((BB.Mercadona, RDF.type, BB.Supermarket))
