@@ -60,5 +60,5 @@ for prop, (domain, range_) in datatype_properties.items():
     g.add((BB[prop], RDFS_NS.domain, domain))
     g.add((BB[prop], RDFS_NS.range, range_))
 
-g.serialize(destination="generated_tbox.ttl", format="turtle")
+g.serialize(destination="graphBoxes/tbox_BudgetBites.ttl", format="turtle")
 print("TBox successfully created and saved as 'generated_tbox.ttl'")
